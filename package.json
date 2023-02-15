@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mavericks-db/mongodb-node-demo/issues"
   },
-  "homepage": "https://github.com/mavericks-db/mongodb-node-demo#readme"
+  "homepage": "https://github.com/mavericks-db/mongodb-node-demo#readme",
+  "dependencies": {
+    "mongodb": "^5.0.1"
+  }
 }
